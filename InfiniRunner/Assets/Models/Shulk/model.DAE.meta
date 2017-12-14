@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: e8e8ef275c59ded4d948e41d2ebe90fc
+timeCreated: 1513217379
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _01_-_TransN
+    100002: _02_-_RotN
+    100004: _03_-_HipN
+    100006: _04_-_LLegJ
+    100008: _05_-_LKneeJ
+    100010: _06_-_LFootJ
+    100012: _07_-_LToeN
+    100014: _08_-_RLegJ
+    100016: _09_-_RKneeJ
+    100018: _10_-_RFootJ
+    100020: _11_-_RToeN
+    100022: _12_-_WaistN
+    100024: _13_-_BustN
+    100026: _14_-_LShoulderN
+    100028: _15_-_LShoulderJ
+    100030: _16_-_LArmJ
+    100032: _17_-_LHandN
+    100034: _18_-_RShoulderN
+    100036: _19_-_RShoulderJ
+    100038: _20_-_RArmJ
+    100040: _21_-_RHandN
+    100042: _22_-_NeckN
+    100044: _23_-_HeadN
+    100046: _24_-_RHaveN
+    100048: _25_-_LHaveN
+    100050: _26_-_ThrowN
+    100052: _27_-_LFingerBaseN
+    100054: _28_-_LThumb1N
+    100056: _29_-_LThumb2N
+    100058: _30_-_LThumb3N
+    100060: _31_-_LIndex1N
+    100062: _32_-_LIndex2N
+    100064: _33_-_LIndex3N
+    100066: _34_-_LMiddleN
+    100068: _35_-_LMiddle1N
+    100070: _36_-_LMiddle2N
+    100072: _37_-_LMiddle3N
+    100074: _38_-_LRingN
+    100076: _39_-_LRing1N
+    100078: _40_-_LRing2N
+    100080: _41_-_LRing3N
+    100082: _42_-_LPinkyN
+    100084: _43_-_LPinky1N
+    100086: _44_-_LPinky2N
+    100088: _45_-_LPinky3N
+    100090: _46_-_RFingerBaseN
+    100092: _47_-_RThumb1N
+    100094: _48_-_RThumb2N
+    100096: _49_-_RThumb3N
+    100098: _50_-_RIndex1N
+    100100: _51_-_RIndex2N
+    100102: _52_-_RIndex3N
+    100104: _53_-_RMiddleN
+    100106: _54_-_RMiddle1N
+    100108: _55_-_RMiddle2N
+    100110: _56_-_RMiddle3N
+    100112: _57_-_RRingN
+    100114: _58_-_RRing1N
+    100116: _59_-_RRing2N
+    100118: _60_-_RRing3N
+    100120: _61_-_RPinkyN
+    100122: _62_-_RPinky1N
+    100124: _63_-_RPinky2N
+    100126: _64_-_RPinky3N
+    100128: _65_-_EXwpAJ
+    100130: _66_-_EXwpBJ
+    100132: _67_-_EfEXweaponBJ
+    100134: _68_-_EXwpCJ
+    100136: _69_-_EXwpDJ
+    100138: _70_-_EfEXweaponDJ
+    100140: _71_-_WepOffsetNa
+    100142: _72_-_WepOffsetNb
+    100144: _73_-_WepOffsetNc
+    100146: _74_-_WepSenakaN
+    100148: _75_-_FaceN
+    100150: _76_-_FaceLLipUpperN
+    100152: _77_-_FaceLLipCornerN
+    100154: _78_-_FaceRLipUpperN
+    100156: _79_-_FaceRLipCornerN
+    100158: _80_-_FaceCLipUpperN
+    100160: _81_-_FaceJawN
+    100162: _82_-_FaceCLipLowerN
+    100164: _83_-_FaceLLipLowerN
+    100166: _84_-_FaceRLipLowerN
+    100168: _85_-_HLP_LElbowJb
+    100170: _86_-_HLP_RElbowJb
+    100172: _87_-_SWG_hip__shit
+    100174: _88_-_SWG_LBvest0__swing
+    100176: _89_-_SWG_LSvest0__swing
+    100178: _90_-_SWG_Lvest0__swing
+    100180: _91_-_SWG_RBvest0__swing
+    100182: _92_-_SWG_RSvest0__swing
+    100184: _93_-_SWG_Rvest0__swing
+    100186: _94_-_SWG_necklace0__swing
+    100188: EnvironmentAmbientLight
+    100190: FlatHood_VIS_O_OBJ_
+    100192: hairAll_O_OBJ_O_SORTEACHNODE_
+    100194: hairAll_O_OBJ_O_SORTEACHNODE_ 1
+    100196: headGamemodel_
+    100198: headGamemodel_ 1
+    100200: headGamemodel_ 2
+    100202: headGamemodel_ 3
+    100204: headGamemodel_ 4
+    100206: //RootNode
+    100208: monadbehind_VIS_O_OBJ_
+    100210: monadbehind_VIS_O_OBJ_ 1
+    100212: monadhand_VIS_O_OBJ_
+    100214: monadhand_VIS_O_OBJ_ 1
+    100216: NormalHood_VIS_O_OBJ_
+    100218: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100220: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100222: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100224: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100226: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100228: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100230: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100232: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100234: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100236: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100238: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100240: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100242: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100244: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100246: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    100248: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    100250: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    100252: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    100254: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    100256: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    100258: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    100260: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    100262: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100264: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    100266: Shulk_Hot_VIS_O_OBJ_
+    100268: Shulk_Mouth_Attack_VIS_O_OBJ_
+    100270: Shulk_Mouth_Attack_VIS_O_OBJ_ 1
+    100272: Shulk_Mouth_Escape_VIS_O_OBJ_
+    100274: Shulk_Mouth_Escape_VIS_O_OBJ_ 1
+    100276: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    100278: Shulk_Mouth_FaceN_VIS_O_OBJ_ 1
+    100280: Shulk_Mouth_Final_VIS_O_OBJ_
+    100282: Shulk_Mouth_Final_VIS_O_OBJ_ 1
+    100284: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    100286: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_ 1
+    100288: Shulk_Mouth_Outh_VIS_O_OBJ_
+    100290: Shulk_Mouth_Outh_VIS_O_OBJ_ 1
+    100292: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    100294: Shulk_Mouth_PatternB_VIS_O_OBJ_ 1
+    100296: Shulk_Mouth_Result_VIS_O_OBJ_
+    100298: Shulk_Mouth_Result_VIS_O_OBJ_ 1
+    100300: Shulk_Mouth_Talk_VIS_O_OBJ_
+    100302: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100304: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400000: _01_-_TransN
+    400002: _02_-_RotN
+    400004: _03_-_HipN
+    400006: _04_-_LLegJ
+    400008: _05_-_LKneeJ
+    400010: _06_-_LFootJ
+    400012: _07_-_LToeN
+    400014: _08_-_RLegJ
+    400016: _09_-_RKneeJ
+    400018: _10_-_RFootJ
+    400020: _11_-_RToeN
+    400022: _12_-_WaistN
+    400024: _13_-_BustN
+    400026: _14_-_LShoulderN
+    400028: _15_-_LShoulderJ
+    400030: _16_-_LArmJ
+    400032: _17_-_LHandN
+    400034: _18_-_RShoulderN
+    400036: _19_-_RShoulderJ
+    400038: _20_-_RArmJ
+    400040: _21_-_RHandN
+    400042: _22_-_NeckN
+    400044: _23_-_HeadN
+    400046: _24_-_RHaveN
+    400048: _25_-_LHaveN
+    400050: _26_-_ThrowN
+    400052: _27_-_LFingerBaseN
+    400054: _28_-_LThumb1N
+    400056: _29_-_LThumb2N
+    400058: _30_-_LThumb3N
+    400060: _31_-_LIndex1N
+    400062: _32_-_LIndex2N
+    400064: _33_-_LIndex3N
+    400066: _34_-_LMiddleN
+    400068: _35_-_LMiddle1N
+    400070: _36_-_LMiddle2N
+    400072: _37_-_LMiddle3N
+    400074: _38_-_LRingN
+    400076: _39_-_LRing1N
+    400078: _40_-_LRing2N
+    400080: _41_-_LRing3N
+    400082: _42_-_LPinkyN
+    400084: _43_-_LPinky1N
+    400086: _44_-_LPinky2N
+    400088: _45_-_LPinky3N
+    400090: _46_-_RFingerBaseN
+    400092: _47_-_RThumb1N
+    400094: _48_-_RThumb2N
+    400096: _49_-_RThumb3N
+    400098: _50_-_RIndex1N
+    400100: _51_-_RIndex2N
+    400102: _52_-_RIndex3N
+    400104: _53_-_RMiddleN
+    400106: _54_-_RMiddle1N
+    400108: _55_-_RMiddle2N
+    400110: _56_-_RMiddle3N
+    400112: _57_-_RRingN
+    400114: _58_-_RRing1N
+    400116: _59_-_RRing2N
+    400118: _60_-_RRing3N
+    400120: _61_-_RPinkyN
+    400122: _62_-_RPinky1N
+    400124: _63_-_RPinky2N
+    400126: _64_-_RPinky3N
+    400128: _65_-_EXwpAJ
+    400130: _66_-_EXwpBJ
+    400132: _67_-_EfEXweaponBJ
+    400134: _68_-_EXwpCJ
+    400136: _69_-_EXwpDJ
+    400138: _70_-_EfEXweaponDJ
+    400140: _71_-_WepOffsetNa
+    400142: _72_-_WepOffsetNb
+    400144: _73_-_WepOffsetNc
+    400146: _74_-_WepSenakaN
+    400148: _75_-_FaceN
+    400150: _76_-_FaceLLipUpperN
+    400152: _77_-_FaceLLipCornerN
+    400154: _78_-_FaceRLipUpperN
+    400156: _79_-_FaceRLipCornerN
+    400158: _80_-_FaceCLipUpperN
+    400160: _81_-_FaceJawN
+    400162: _82_-_FaceCLipLowerN
+    400164: _83_-_FaceLLipLowerN
+    400166: _84_-_FaceRLipLowerN
+    400168: _85_-_HLP_LElbowJb
+    400170: _86_-_HLP_RElbowJb
+    400172: _87_-_SWG_hip__shit
+    400174: _88_-_SWG_LBvest0__swing
+    400176: _89_-_SWG_LSvest0__swing
+    400178: _90_-_SWG_Lvest0__swing
+    400180: _91_-_SWG_RBvest0__swing
+    400182: _92_-_SWG_RSvest0__swing
+    400184: _93_-_SWG_Rvest0__swing
+    400186: _94_-_SWG_necklace0__swing
+    400188: EnvironmentAmbientLight
+    400190: FlatHood_VIS_O_OBJ_
+    400192: hairAll_O_OBJ_O_SORTEACHNODE_
+    400194: hairAll_O_OBJ_O_SORTEACHNODE_ 1
+    400196: headGamemodel_
+    400198: headGamemodel_ 1
+    400200: headGamemodel_ 2
+    400202: headGamemodel_ 3
+    400204: headGamemodel_ 4
+    400206: //RootNode
+    400208: monadbehind_VIS_O_OBJ_
+    400210: monadbehind_VIS_O_OBJ_ 1
+    400212: monadhand_VIS_O_OBJ_
+    400214: monadhand_VIS_O_OBJ_ 1
+    400216: NormalHood_VIS_O_OBJ_
+    400218: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400220: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400222: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400224: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400226: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400228: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400230: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400232: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400234: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400236: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400238: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400240: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400242: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400244: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400246: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    400248: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    400250: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    400252: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    400254: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    400256: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    400258: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    400260: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    400262: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400264: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    400266: Shulk_Hot_VIS_O_OBJ_
+    400268: Shulk_Mouth_Attack_VIS_O_OBJ_
+    400270: Shulk_Mouth_Attack_VIS_O_OBJ_ 1
+    400272: Shulk_Mouth_Escape_VIS_O_OBJ_
+    400274: Shulk_Mouth_Escape_VIS_O_OBJ_ 1
+    400276: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    400278: Shulk_Mouth_FaceN_VIS_O_OBJ_ 1
+    400280: Shulk_Mouth_Final_VIS_O_OBJ_
+    400282: Shulk_Mouth_Final_VIS_O_OBJ_ 1
+    400284: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    400286: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_ 1
+    400288: Shulk_Mouth_Outh_VIS_O_OBJ_
+    400290: Shulk_Mouth_Outh_VIS_O_OBJ_ 1
+    400292: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    400294: Shulk_Mouth_PatternB_VIS_O_OBJ_ 1
+    400296: Shulk_Mouth_Result_VIS_O_OBJ_
+    400298: Shulk_Mouth_Result_VIS_O_OBJ_ 1
+    400300: Shulk_Mouth_Talk_VIS_O_OBJ_
+    400302: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400304: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    4300000: monadhand_VIS_O_OBJ_
+    4300002: monadhand_VIS_O_OBJ_
+    4300004: monadbehind_VIS_O_OBJ_
+    4300006: monadbehind_VIS_O_OBJ_
+    4300008: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    4300010: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    4300012: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    4300014: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    4300016: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    4300018: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    4300020: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300022: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300024: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300026: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300028: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300030: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300032: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300034: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300036: Shulk_Mouth_Talk_VIS_O_OBJ_
+    4300038: Shulk_Mouth_Final_VIS_O_OBJ_
+    4300040: Shulk_Mouth_Final_VIS_O_OBJ_
+    4300042: Shulk_Mouth_Outh_VIS_O_OBJ_
+    4300044: Shulk_Mouth_Outh_VIS_O_OBJ_
+    4300046: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300048: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300050: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    4300052: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    4300054: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    4300056: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    4300058: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    4300060: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    4300062: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300064: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300066: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    4300068: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    4300070: Shulk_Mouth_Escape_VIS_O_OBJ_
+    4300072: Shulk_Mouth_Escape_VIS_O_OBJ_
+    4300074: Shulk_Mouth_Attack_VIS_O_OBJ_
+    4300076: Shulk_Mouth_Attack_VIS_O_OBJ_
+    4300078: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300080: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300082: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300084: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300086: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300088: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300090: Shulk_Hot_VIS_O_OBJ_
+    4300092: Shulk_Mouth_Result_VIS_O_OBJ_
+    4300094: Shulk_Mouth_Result_VIS_O_OBJ_
+    4300096: hairAll_O_OBJ_O_SORTEACHNODE_
+    4300098: hairAll_O_OBJ_O_SORTEACHNODE_
+    4300100: NormalHood_VIS_O_OBJ_
+    4300102: FlatHood_VIS_O_OBJ_
+    4300104: headGamemodel_
+    4300106: headGamemodel_
+    4300108: headGamemodel_
+    4300110: headGamemodel_
+    4300112: headGamemodel_
+    9500000: //RootNode
+    13700000: FlatHood_VIS_O_OBJ_
+    13700002: hairAll_O_OBJ_O_SORTEACHNODE_
+    13700004: hairAll_O_OBJ_O_SORTEACHNODE_ 1
+    13700006: headGamemodel_
+    13700008: headGamemodel_ 1
+    13700010: headGamemodel_ 2
+    13700012: headGamemodel_ 3
+    13700014: headGamemodel_ 4
+    13700016: monadbehind_VIS_O_OBJ_
+    13700018: monadbehind_VIS_O_OBJ_ 1
+    13700020: monadhand_VIS_O_OBJ_
+    13700022: monadhand_VIS_O_OBJ_ 1
+    13700024: NormalHood_VIS_O_OBJ_
+    13700026: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700028: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700030: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700032: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700034: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700036: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700038: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700040: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700042: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700044: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700046: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700048: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700050: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700052: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700054: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    13700056: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    13700058: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    13700060: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    13700062: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    13700064: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 1
+    13700066: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 2
+    13700068: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_ 3
+    13700070: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700072: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+    13700074: Shulk_Hot_VIS_O_OBJ_
+    13700076: Shulk_Mouth_Attack_VIS_O_OBJ_
+    13700078: Shulk_Mouth_Attack_VIS_O_OBJ_ 1
+    13700080: Shulk_Mouth_Escape_VIS_O_OBJ_
+    13700082: Shulk_Mouth_Escape_VIS_O_OBJ_ 1
+    13700084: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    13700086: Shulk_Mouth_FaceN_VIS_O_OBJ_ 1
+    13700088: Shulk_Mouth_Final_VIS_O_OBJ_
+    13700090: Shulk_Mouth_Final_VIS_O_OBJ_ 1
+    13700092: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    13700094: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_ 1
+    13700096: Shulk_Mouth_Outh_VIS_O_OBJ_
+    13700098: Shulk_Mouth_Outh_VIS_O_OBJ_ 1
+    13700100: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    13700102: Shulk_Mouth_PatternB_VIS_O_OBJ_ 1
+    13700104: Shulk_Mouth_Result_VIS_O_OBJ_
+    13700106: Shulk_Mouth_Result_VIS_O_OBJ_ 1
+    13700108: Shulk_Mouth_Talk_VIS_O_OBJ_
+    13700110: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700112: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_ 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

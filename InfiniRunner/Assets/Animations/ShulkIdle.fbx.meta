@@ -1,0 +1,1712 @@
+fileFormatVersion: 2
+guid: d80ce4401ee5a2042b5579151a3da989
+timeCreated: 1513219179
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: EnvironmentAmbientLight
+    100002: FlatHood_VIS_O_OBJ_
+    100004: hairAll_O_OBJ_O_SORTEACHNODE_
+    100006: hairAll_O_OBJ_O_SORTEACHNODE_.001
+    100008: headGamemodel_
+    100010: headGamemodel_.001
+    100012: headGamemodel_.002
+    100014: headGamemodel_.003
+    100016: headGamemodel_.004
+    100018: mixamorig:Head
+    100020: mixamorig:HeadTop_End
+    100022: mixamorig:Hips
+    100024: mixamorig:LeftArm
+    100026: mixamorig:LeftFoot
+    100028: mixamorig:LeftForeArm
+    100030: mixamorig:LeftHand
+    100032: mixamorig:LeftHandIndex1
+    100034: mixamorig:LeftHandIndex2
+    100036: mixamorig:LeftHandIndex3
+    100038: mixamorig:LeftHandIndex4
+    100040: mixamorig:LeftHandMiddle1
+    100042: mixamorig:LeftHandMiddle2
+    100044: mixamorig:LeftHandMiddle3
+    100046: mixamorig:LeftHandMiddle4
+    100048: mixamorig:LeftHandPinky1
+    100050: mixamorig:LeftHandPinky2
+    100052: mixamorig:LeftHandPinky3
+    100054: mixamorig:LeftHandPinky4
+    100056: mixamorig:LeftHandRing1
+    100058: mixamorig:LeftHandRing2
+    100060: mixamorig:LeftHandRing3
+    100062: mixamorig:LeftHandRing4
+    100064: mixamorig:LeftHandThumb1
+    100066: mixamorig:LeftHandThumb2
+    100068: mixamorig:LeftHandThumb3
+    100070: mixamorig:LeftHandThumb4
+    100072: mixamorig:LeftLeg
+    100074: mixamorig:LeftShoulder
+    100076: mixamorig:LeftToe_End
+    100078: mixamorig:LeftToeBase
+    100080: mixamorig:LeftUpLeg
+    100082: mixamorig:Neck
+    100084: mixamorig:RightArm
+    100086: mixamorig:RightFoot
+    100088: mixamorig:RightForeArm
+    100090: mixamorig:RightHand
+    100092: mixamorig:RightHandIndex1
+    100094: mixamorig:RightHandIndex2
+    100096: mixamorig:RightHandIndex3
+    100098: mixamorig:RightHandIndex4
+    100100: mixamorig:RightHandMiddle1
+    100102: mixamorig:RightHandMiddle2
+    100104: mixamorig:RightHandMiddle3
+    100106: mixamorig:RightHandMiddle4
+    100108: mixamorig:RightHandPinky1
+    100110: mixamorig:RightHandPinky2
+    100112: mixamorig:RightHandPinky3
+    100114: mixamorig:RightHandPinky4
+    100116: mixamorig:RightHandRing1
+    100118: mixamorig:RightHandRing2
+    100120: mixamorig:RightHandRing3
+    100122: mixamorig:RightHandRing4
+    100124: mixamorig:RightHandThumb1
+    100126: mixamorig:RightHandThumb2
+    100128: mixamorig:RightHandThumb3
+    100130: mixamorig:RightHandThumb4
+    100132: mixamorig:RightLeg
+    100134: mixamorig:RightShoulder
+    100136: mixamorig:RightToe_End
+    100138: mixamorig:RightToeBase
+    100140: mixamorig:RightUpLeg
+    100142: mixamorig:Spine
+    100144: mixamorig:Spine1
+    100146: mixamorig:Spine2
+    100148: NormalHood_VIS_O_OBJ_
+    100150: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100152: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100154: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100156: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100158: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100160: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100162: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100164: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100166: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100168: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100170: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100172: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100174: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100176: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100178: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    100180: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+    100182: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+    100184: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+    100186: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    100188: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+    100190: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+    100192: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+    100194: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100196: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100198: Shulk_Hot_VIS_O_OBJ_
+    100200: Shulk_Mouth_Attack_VIS_O_OBJ_
+    100202: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+    100204: Shulk_Mouth_Escape_VIS_O_OBJ_
+    100206: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+    100208: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    100210: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+    100212: Shulk_Mouth_Final_VIS_O_OBJ_
+    100214: Shulk_Mouth_Final_VIS_O_OBJ_.001
+    100216: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    100218: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+    100220: Shulk_Mouth_Outh_VIS_O_OBJ_
+    100222: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+    100224: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    100226: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+    100228: Shulk_Mouth_Result_VIS_O_OBJ_
+    100230: Shulk_Mouth_Result_VIS_O_OBJ_.001
+    100232: Shulk_Mouth_Talk_VIS_O_OBJ_
+    100234: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    100236: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    100238: //RootNode
+    400000: EnvironmentAmbientLight
+    400002: FlatHood_VIS_O_OBJ_
+    400004: hairAll_O_OBJ_O_SORTEACHNODE_
+    400006: hairAll_O_OBJ_O_SORTEACHNODE_.001
+    400008: headGamemodel_
+    400010: headGamemodel_.001
+    400012: headGamemodel_.002
+    400014: headGamemodel_.003
+    400016: headGamemodel_.004
+    400018: mixamorig:Head
+    400020: mixamorig:HeadTop_End
+    400022: mixamorig:Hips
+    400024: mixamorig:LeftArm
+    400026: mixamorig:LeftFoot
+    400028: mixamorig:LeftForeArm
+    400030: mixamorig:LeftHand
+    400032: mixamorig:LeftHandIndex1
+    400034: mixamorig:LeftHandIndex2
+    400036: mixamorig:LeftHandIndex3
+    400038: mixamorig:LeftHandIndex4
+    400040: mixamorig:LeftHandMiddle1
+    400042: mixamorig:LeftHandMiddle2
+    400044: mixamorig:LeftHandMiddle3
+    400046: mixamorig:LeftHandMiddle4
+    400048: mixamorig:LeftHandPinky1
+    400050: mixamorig:LeftHandPinky2
+    400052: mixamorig:LeftHandPinky3
+    400054: mixamorig:LeftHandPinky4
+    400056: mixamorig:LeftHandRing1
+    400058: mixamorig:LeftHandRing2
+    400060: mixamorig:LeftHandRing3
+    400062: mixamorig:LeftHandRing4
+    400064: mixamorig:LeftHandThumb1
+    400066: mixamorig:LeftHandThumb2
+    400068: mixamorig:LeftHandThumb3
+    400070: mixamorig:LeftHandThumb4
+    400072: mixamorig:LeftLeg
+    400074: mixamorig:LeftShoulder
+    400076: mixamorig:LeftToe_End
+    400078: mixamorig:LeftToeBase
+    400080: mixamorig:LeftUpLeg
+    400082: mixamorig:Neck
+    400084: mixamorig:RightArm
+    400086: mixamorig:RightFoot
+    400088: mixamorig:RightForeArm
+    400090: mixamorig:RightHand
+    400092: mixamorig:RightHandIndex1
+    400094: mixamorig:RightHandIndex2
+    400096: mixamorig:RightHandIndex3
+    400098: mixamorig:RightHandIndex4
+    400100: mixamorig:RightHandMiddle1
+    400102: mixamorig:RightHandMiddle2
+    400104: mixamorig:RightHandMiddle3
+    400106: mixamorig:RightHandMiddle4
+    400108: mixamorig:RightHandPinky1
+    400110: mixamorig:RightHandPinky2
+    400112: mixamorig:RightHandPinky3
+    400114: mixamorig:RightHandPinky4
+    400116: mixamorig:RightHandRing1
+    400118: mixamorig:RightHandRing2
+    400120: mixamorig:RightHandRing3
+    400122: mixamorig:RightHandRing4
+    400124: mixamorig:RightHandThumb1
+    400126: mixamorig:RightHandThumb2
+    400128: mixamorig:RightHandThumb3
+    400130: mixamorig:RightHandThumb4
+    400132: mixamorig:RightLeg
+    400134: mixamorig:RightShoulder
+    400136: mixamorig:RightToe_End
+    400138: mixamorig:RightToeBase
+    400140: mixamorig:RightUpLeg
+    400142: mixamorig:Spine
+    400144: mixamorig:Spine1
+    400146: mixamorig:Spine2
+    400148: NormalHood_VIS_O_OBJ_
+    400150: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400152: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400154: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400156: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400158: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400160: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400162: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400164: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400166: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400168: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400170: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400172: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400174: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400176: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400178: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    400180: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+    400182: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+    400184: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+    400186: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    400188: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+    400190: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+    400192: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+    400194: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400196: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400198: Shulk_Hot_VIS_O_OBJ_
+    400200: Shulk_Mouth_Attack_VIS_O_OBJ_
+    400202: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+    400204: Shulk_Mouth_Escape_VIS_O_OBJ_
+    400206: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+    400208: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    400210: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+    400212: Shulk_Mouth_Final_VIS_O_OBJ_
+    400214: Shulk_Mouth_Final_VIS_O_OBJ_.001
+    400216: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    400218: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+    400220: Shulk_Mouth_Outh_VIS_O_OBJ_
+    400222: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+    400224: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    400226: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+    400228: Shulk_Mouth_Result_VIS_O_OBJ_
+    400230: Shulk_Mouth_Result_VIS_O_OBJ_.001
+    400232: Shulk_Mouth_Talk_VIS_O_OBJ_
+    400234: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    400236: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    400238: //RootNode
+    4300000: headGamemodel_.004
+    4300002: headGamemodel_.003
+    4300004: headGamemodel_.002
+    4300006: headGamemodel_.001
+    4300008: headGamemodel_
+    4300010: FlatHood_VIS_O_OBJ_
+    4300012: NormalHood_VIS_O_OBJ_
+    4300014: hairAll_O_OBJ_O_SORTEACHNODE_.001
+    4300016: hairAll_O_OBJ_O_SORTEACHNODE_
+    4300018: Shulk_Mouth_Result_VIS_O_OBJ_.001
+    4300020: Shulk_Mouth_Result_VIS_O_OBJ_
+    4300022: Shulk_Hot_VIS_O_OBJ_
+    4300024: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300026: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300028: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300030: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300032: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300034: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300036: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+    4300038: Shulk_Mouth_Attack_VIS_O_OBJ_
+    4300040: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+    4300042: Shulk_Mouth_Escape_VIS_O_OBJ_
+    4300044: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+    4300046: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    4300048: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300050: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300052: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+    4300054: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    4300056: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+    4300058: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+    4300060: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+    4300062: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    4300064: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300066: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300068: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+    4300070: Shulk_Mouth_Outh_VIS_O_OBJ_
+    4300072: Shulk_Mouth_Final_VIS_O_OBJ_.001
+    4300074: Shulk_Mouth_Final_VIS_O_OBJ_
+    4300076: Shulk_Mouth_Talk_VIS_O_OBJ_
+    4300078: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300080: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300082: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300084: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300086: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300088: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300090: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    4300092: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    4300094: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+    4300096: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    4300098: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+    4300100: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+    4300102: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+    4300104: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    7400000: Idle
+    9500000: //RootNode
+    13700000: FlatHood_VIS_O_OBJ_
+    13700002: hairAll_O_OBJ_O_SORTEACHNODE_
+    13700004: hairAll_O_OBJ_O_SORTEACHNODE_.001
+    13700006: headGamemodel_
+    13700008: headGamemodel_.001
+    13700010: headGamemodel_.002
+    13700012: headGamemodel_.003
+    13700014: headGamemodel_.004
+    13700016: NormalHood_VIS_O_OBJ_
+    13700018: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700020: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700022: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700024: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700026: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700028: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700030: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700032: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700034: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700036: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700038: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700040: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700042: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700044: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700046: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+    13700048: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+    13700050: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+    13700052: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+    13700054: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+    13700056: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+    13700058: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+    13700060: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+    13700062: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700064: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+    13700066: Shulk_Hot_VIS_O_OBJ_
+    13700068: Shulk_Mouth_Attack_VIS_O_OBJ_
+    13700070: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+    13700072: Shulk_Mouth_Escape_VIS_O_OBJ_
+    13700074: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+    13700076: Shulk_Mouth_FaceN_VIS_O_OBJ_
+    13700078: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+    13700080: Shulk_Mouth_Final_VIS_O_OBJ_
+    13700082: Shulk_Mouth_Final_VIS_O_OBJ_.001
+    13700084: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+    13700086: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+    13700088: Shulk_Mouth_Outh_VIS_O_OBJ_
+    13700090: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+    13700092: Shulk_Mouth_PatternB_VIS_O_OBJ_
+    13700094: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+    13700096: Shulk_Mouth_Result_VIS_O_OBJ_
+    13700098: Shulk_Mouth_Result_VIS_O_OBJ_.001
+    13700100: Shulk_Mouth_Talk_VIS_O_OBJ_
+    13700102: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+    13700104: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 196
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EnvironmentAmbientLight
+        weight: 0
+      - path: FlatHood_VIS_O_OBJ_
+        weight: 0
+      - path: hairAll_O_OBJ_O_SORTEACHNODE_
+        weight: 0
+      - path: hairAll_O_OBJ_O_SORTEACHNODE_.001
+        weight: 0
+      - path: headGamemodel_
+        weight: 0
+      - path: headGamemodel_.001
+        weight: 0
+      - path: headGamemodel_.002
+        weight: 0
+      - path: headGamemodel_.003
+        weight: 0
+      - path: headGamemodel_.004
+        weight: 0
+      - path: mixamorig:Hips
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:LeftUpLeg/mixamorig:LeftLeg/mixamorig:LeftFoot/mixamorig:LeftToeBase/mixamorig:LeftToe_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:RightUpLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:RightUpLeg/mixamorig:RightLeg/mixamorig:RightFoot/mixamorig:RightToeBase/mixamorig:RightToe_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandIndex1/mixamorig:LeftHandIndex2/mixamorig:LeftHandIndex3/mixamorig:LeftHandIndex4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandMiddle1/mixamorig:LeftHandMiddle2/mixamorig:LeftHandMiddle3/mixamorig:LeftHandMiddle4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandPinky1/mixamorig:LeftHandPinky2/mixamorig:LeftHandPinky3/mixamorig:LeftHandPinky4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandRing1/mixamorig:LeftHandRing2/mixamorig:LeftHandRing3/mixamorig:LeftHandRing4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:LeftShoulder/mixamorig:LeftArm/mixamorig:LeftForeArm/mixamorig:LeftHand/mixamorig:LeftHandThumb1/mixamorig:LeftHandThumb2/mixamorig:LeftHandThumb3/mixamorig:LeftHandThumb4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:Neck/mixamorig:Head/mixamorig:HeadTop_End
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandIndex1/mixamorig:RightHandIndex2/mixamorig:RightHandIndex3/mixamorig:RightHandIndex4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandMiddle1/mixamorig:RightHandMiddle2/mixamorig:RightHandMiddle3/mixamorig:RightHandMiddle4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandPinky1/mixamorig:RightHandPinky2/mixamorig:RightHandPinky3/mixamorig:RightHandPinky4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandRing1/mixamorig:RightHandRing2/mixamorig:RightHandRing3/mixamorig:RightHandRing4
+        weight: 0
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3
+        weight: 1
+      - path: mixamorig:Hips/mixamorig:Spine/mixamorig:Spine1/mixamorig:Spine2/mixamorig:RightShoulder/mixamorig:RightArm/mixamorig:RightForeArm/mixamorig:RightHand/mixamorig:RightHandThumb1/mixamorig:RightHandThumb2/mixamorig:RightHandThumb3/mixamorig:RightHandThumb4
+        weight: 0
+      - path: NormalHood_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+        weight: 0
+      - path: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+        weight: 0
+      - path: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+        weight: 0
+      - path: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+        weight: 0
+      - path: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+        weight: 0
+      - path: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+        weight: 0
+      - path: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+        weight: 0
+      - path: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+        weight: 0
+      - path: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      - path: Shulk_Hot_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Attack_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_Escape_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_FaceN_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_Final_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Final_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_Outh_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_PatternB_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_Result_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Mouth_Result_VIS_O_OBJ_.001
+        weight: 0
+      - path: Shulk_Mouth_Talk_VIS_O_OBJ_
+        weight: 0
+      - path: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+        weight: 0
+      - path: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+        weight: 0
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ShulkIdle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EnvironmentAmbientLight
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 1, y: -1.1102233e-16, z: 1.1102236e-16, w: -0.0000000754979}
+      scale: {x: 0.25400004, y: 0.25400004, z: 0.25400004}
+    - name: FlatHood_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: hairAll_O_OBJ_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: hairAll_O_OBJ_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: headGamemodel_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: headGamemodel_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: headGamemodel_.002
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: headGamemodel_.003
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: headGamemodel_.004
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: NormalHood_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Attack_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Capture_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Down_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Furafura_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Outh_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_Talk_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Blink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.002
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_Ouch_VIS_O_OBJ_O_NOSORT_FAR_.003
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.002
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Eye_VIS_O_OBJ_O_NOSORT_FAR_.003
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Halfblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Hot_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Attack_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Attack_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Escape_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Escape_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_FaceN_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_FaceN_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Final_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Final_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_HeavyAttack_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Outh_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Outh_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_PatternB_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_PatternB_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Result_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Result_VIS_O_OBJ_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Mouth_Talk_VIS_O_OBJ_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: Shulk_Openblink_VIS_O_OBJ_O_NOSORT_FAR_O_SORTEACHNODE_.001
+      parentName: ShulkIdle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 10.000002, y: 10.000002, z: 10.000002}
+    - name: mixamorig:Hips
+      parentName: ShulkIdle(Clone)
+      position: {x: -0.0000000027939677, y: 1.0841013, z: -0.016325742}
+      rotation: {x: -0.0000000014273692, y: 0.00000005587935, z: -0.000000003492457,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.10461433, z: 0.0005004811}
+      rotation: {x: 0.002392021, y: 0.00000001863615, z: 0.0000000040299706, w: 0.99999714}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -0, y: 0.12205141, z: 1.7848611e-11}
+      rotation: {x: 0.000000027008355, y: -0.000000093089426, z: 0.000000009176594,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.13948737, z: -3.8001956e-11}
+      rotation: {x: -0.000000027939677, y: 0.000000009290844, z: -0.000000004701115,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.07501579, y: 0.13070649, z: 0.00007110082}
+      rotation: {x: 0.57803565, y: 0.40747038, z: -0.57748276, w: 0.407868}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999998}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -9.571899e-12, y: 0.15662731, z: 0.0000000016506166}
+      rotation: {x: 0.14345752, y: -0.0013803841, z: 0.009522469, w: -0.9896097}
+      scale: {x: 1.0000039, y: 1.0000023, z: 1.0000013}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: -1.1248961e-10, y: 0.25678256, z: 2.274612e-10}
+      rotation: {x: 0.0076165795, y: 0.0003723891, z: -0.043031, w: -0.9990447}
+      scale: {x: 1.0000001, y: 1.0000015, z: 1.0000007}
+    - name: mixamorig:RightHand
+      parentName: mixamorig:RightForeArm
+      position: {x: 0.0000000010751969, y: 0.21719608, z: -3.2911826e-10}
+      rotation: {x: -0.07670394, y: 0.044942822, z: -0.090624735, w: 0.9919092}
+      scale: {x: 1, y: 1.0000006, z: 1.0000005}
+    - name: mixamorig:RightHandThumb1
+      parentName: mixamorig:RightHand
+      position: {x: -0.037838414, y: 0.026063828, z: 0.009086957}
+      rotation: {x: 0.03490424, y: 0.013220181, z: 0.418068, w: 0.9076487}
+      scale: {x: 1, y: 0.99999976, z: 1.0000006}
+    - name: mixamorig:RightHandThumb2
+      parentName: mixamorig:RightHandThumb1
+      position: {x: -0.002779593, y: 0.037365813, z: 2.9242841e-10}
+      rotation: {x: 0.019798608, y: -0.00021286585, z: 0.02107673, w: 0.9995819}
+      scale: {x: 0.99999994, y: 1.0000008, z: 1.0000006}
+    - name: mixamorig:RightHandThumb3
+      parentName: mixamorig:RightHandThumb2
+      position: {x: 0.0013922256, y: 0.036261555, z: 1.3044399e-10}
+      rotation: {x: -0.0019146295, y: 0.0000000030546228, z: 0.00000022323056, w: 0.9999982}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000007}
+    - name: mixamorig:RightHandThumb4
+      parentName: mixamorig:RightHandThumb3
+      position: {x: 0.0013873702, y: 0.029506747, z: -6.186505e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandMiddle1
+      parentName: mixamorig:RightHand
+      position: {x: -0.01404825, y: 0.11955208, z: -0.0016206679}
+      rotation: {x: 0.017417384, y: 0.00074037525, z: 0.0424635, w: 0.99894595}
+      scale: {x: 1, y: 0.9999991, z: 0.9999996}
+    - name: mixamorig:RightHandMiddle2
+      parentName: mixamorig:RightHandMiddle1
+      position: {x: 0.000022724527, y: 0.036429662, z: 7.2938634e-11}
+      rotation: {x: 0.031438477, y: -0.00000008853385, z: -0.000000007887138, w: 0.9995057}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000011}
+    - name: mixamorig:RightHandMiddle3
+      parentName: mixamorig:RightHandMiddle2
+      position: {x: -0.000096400174, y: 0.036096204, z: -1.1363141e-10}
+      rotation: {x: -0.041212972, y: 0.0000011242499, z: 0.0003039012, w: 0.99915034}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.99999946}
+    - name: mixamorig:RightHandMiddle4
+      parentName: mixamorig:RightHandMiddle3
+      position: {x: 0.000073675605, y: 0.03253635, z: 8.8010946e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandIndex1
+      parentName: mixamorig:RightHand
+      position: {x: -0.038772285, y: 0.12501085, z: 0.00048322606}
+      rotation: {x: 0.029613465, y: 0.0010173579, z: 0.034320332, w: 0.9989715}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: mixamorig:RightHandIndex2
+      parentName: mixamorig:RightHandIndex1
+      position: {x: 0.00003610066, y: 0.029547546, z: -1.099238e-11}
+      rotation: {x: 0.025998423, y: -3.4924594e-10, z: -0.000000035473928, w: 0.99966204}
+      scale: {x: 0.9999997, y: 0.99999994, z: 1.0000001}
+    - name: mixamorig:RightHandIndex3
+      parentName: mixamorig:RightHandIndex2
+      position: {x: -0.00003885867, y: 0.026974602, z: 1.520931e-11}
+      rotation: {x: -0.014269504, y: 0.00000005250829, z: -0.000000016841785, w: 0.99989825}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.99999946}
+    - name: mixamorig:RightHandIndex4
+      parentName: mixamorig:RightHandIndex3
+      position: {x: 0.0000027582234, y: 0.022058282, z: -5.018137e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandRing1
+      parentName: mixamorig:RightHand
+      position: {x: 0.01364031, y: 0.10665321, z: -0.0033966466}
+      rotation: {x: 0.077754885, y: 0.00502209, z: 0.06425863, w: 0.9948869}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000008}
+    - name: mixamorig:RightHandRing2
+      parentName: mixamorig:RightHandRing1
+      position: {x: -0.000020909982, y: 0.03818701, z: -4.9482196e-13}
+      rotation: {x: -0.04127716, y: -0.000008421017, z: 0.00023632277, w: 0.9991478}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.99999994}
+    - name: mixamorig:RightHandRing3
+      parentName: mixamorig:RightHandRing2
+      position: {x: 0.00016254114, y: 0.036830105, z: 1.942385e-10}
+      rotation: {x: 0.039718825, y: -0.000006033755, z: -0.0022027951, w: 0.99920845}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.000001}
+    - name: mixamorig:RightHandRing4
+      parentName: mixamorig:RightHandRing3
+      position: {x: -0.00014163106, y: 0.029887324, z: 2.007917e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightHandPinky1
+      parentName: mixamorig:RightHand
+      position: {x: 0.039180227, y: 0.09873841, z: -0.0008910786}
+      rotation: {x: 0.0682861, y: 0.0041713305, z: 0.06082989, w: 0.9958009}
+      scale: {x: 1, y: 0.99999887, z: 0.9999995}
+    - name: mixamorig:RightHandPinky2
+      parentName: mixamorig:RightHandPinky1
+      position: {x: -0.000094111696, y: 0.033423606, z: -1.787157e-12}
+      rotation: {x: -0.018482609, y: -0.0000000046566133, z: -0.000000019645087, w: 0.99982923}
+      scale: {x: 1.0000001, y: 1, z: 1.000001}
+    - name: mixamorig:RightHandPinky3
+      parentName: mixamorig:RightHandPinky2
+      position: {x: -0.000023620552, y: 0.02945025, z: 1.0101104e-10}
+      rotation: {x: -0.041056532, y: -0.000017665589, z: 0.00049858395, w: 0.9991568}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000004}
+    - name: mixamorig:RightHandPinky4
+      parentName: mixamorig:RightHandPinky3
+      position: {x: 0.000117732285, y: 0.025117977, z: -1.2440524e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.07501579, y: 0.13070701, z: 0.00017972784}
+      rotation: {x: 0.5784557, y: -0.40716958, z: 0.57705927, w: 0.40817237}
+      scale: {x: 1.0000048, y: 1.0000075, z: 1.0000054}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: -1.5816291e-11, y: 0.15662731, z: -0.0000000015462374}
+      rotation: {x: -0.14336085, y: -0.0023920534, z: 0.016510753, w: 0.98952985}
+      scale: {x: 1.0000025, y: 1.0000026, z: 1.000002}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -2.943167e-10, y: 0.25685632, z: 3.705506e-10}
+      rotation: {x: -0.009295001, y: 0.00060014764, z: -0.05385521, w: 0.9985053}
+      scale: {x: 1.000001, y: 1.0000004, z: 1.0000014}
+    - name: mixamorig:LeftHand
+      parentName: mixamorig:LeftForeArm
+      position: {x: 8.989146e-10, y: 0.21748066, z: 6.4755735e-11}
+      rotation: {x: 0.0786415, y: 0.043045297, z: -0.102946326, w: -0.9906386}
+      scale: {x: 1.0000013, y: 1.0000029, z: 1.0000011}
+    - name: mixamorig:LeftHandRing1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.0141746355, y: 0.10355364, z: -0.005320518}
+      rotation: {x: -0.07625909, y: 0.0044809096, z: 0.06337353, w: -0.995062}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999991}
+    - name: mixamorig:LeftHandRing2
+      parentName: mixamorig:LeftHandRing1
+      position: {x: 0.00014229292, y: 0.038357608, z: -3.4486958e-10}
+      rotation: {x: 0.03985484, y: 0.000004151834, z: 0.001668293, w: -0.9992041}
+      scale: {x: 1, y: 0.9999992, z: 1.0000011}
+    - name: mixamorig:LeftHandRing3
+      parentName: mixamorig:LeftHandRing2
+      position: {x: -0.00012760461, y: 0.036731325, z: 2.375728e-10}
+      rotation: {x: 0.029505994, y: -0.00000005432737, z: 0.00000012947996, w: 0.9995646}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: mixamorig:LeftHandRing4
+      parentName: mixamorig:LeftHandRing3
+      position: {x: -0.00001468836, y: 0.031720866, z: 1.5089084e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandThumb1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.037042767, y: 0.024239505, z: 0.008260902}
+      rotation: {x: -0.0356328, y: 0.0134519925, z: 0.42317808, w: -0.90524566}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000017}
+    - name: mixamorig:LeftHandThumb2
+      parentName: mixamorig:LeftHandThumb1
+      position: {x: 0.0031208838, y: 0.035890862, z: 5.4257554e-10}
+      rotation: {x: 0.029709652, y: 0.0007895303, z: -0.01728933, w: 0.9994087}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000007}
+    - name: mixamorig:LeftHandThumb3
+      parentName: mixamorig:LeftHandThumb2
+      position: {x: -0.00009451844, y: 0.03668343, z: -3.819457e-10}
+      rotation: {x: -0.03443963, y: 0.005019682, z: -0.03736629, w: 0.99869543}
+      scale: {x: 0.9999999, y: 1.0000007, z: 1.0000002}
+    - name: mixamorig:LeftHandThumb4
+      parentName: mixamorig:LeftHandThumb3
+      position: {x: -0.0030263655, y: 0.02881603, z: -3.2240705e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandPinky1
+      parentName: mixamorig:LeftHand
+      position: {x: -0.040018346, y: 0.09343094, z: -0.0009815475}
+      rotation: {x: -0.07637354, y: 0.004977222, z: 0.064841226, w: -0.9949563}
+      scale: {x: 1.0000011, y: 1.0000007, z: 1.000001}
+    - name: mixamorig:LeftHandPinky2
+      parentName: mixamorig:LeftHandPinky1
+      position: {x: -0.000019790588, y: 0.036134534, z: 5.8525984e-12}
+      rotation: {x: 0.03230648, y: -0.000000019092107, z: 0.000000059488215, w: -0.99947804}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000013}
+    - name: mixamorig:LeftHandPinky3
+      parentName: mixamorig:LeftHandPinky2
+      position: {x: -0.00010274731, y: 0.028537702, z: -1.053175e-10}
+      rotation: {x: -0.039478183, y: -0.00002867523, z: -0.002213704, w: -0.999218}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000008}
+    - name: mixamorig:LeftHandPinky4
+      parentName: mixamorig:LeftHandPinky3
+      position: {x: 0.00012253788, y: 0.024724083, z: -2.5365807e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandMiddle1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.015613966, y: 0.11312965, z: -0.0011379097}
+      rotation: {x: 0.02053477, y: -0.0004913582, z: -0.023920448, w: 0.9995029}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000014}
+    - name: mixamorig:LeftHandMiddle2
+      parentName: mixamorig:LeftHandMiddle1
+      position: {x: -0.00007273371, y: 0.03591789, z: -2.7994387e-10}
+      rotation: {x: 0.029560884, y: -0.00000004371394, z: -0.00000007891319, w: 0.99956304}
+      scale: {x: 1.0000004, y: 1, z: 1.0000004}
+    - name: mixamorig:LeftHandMiddle3
+      parentName: mixamorig:LeftHandMiddle2
+      position: {x: 0.000016452319, y: 0.035785224, z: 2.8908856e-11}
+      rotation: {x: 0.016710194, y: -0.000000055504124, z: 6.175758e-10, w: 0.9998604}
+      scale: {x: 1, y: 1.0000004, z: 1.0000004}
+    - name: mixamorig:LeftHandMiddle4
+      parentName: mixamorig:LeftHandMiddle3
+      position: {x: 0.000056282242, y: 0.03172892, z: 5.3370286e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftHandIndex1
+      parentName: mixamorig:LeftHand
+      position: {x: 0.038579024, y: 0.11688987, z: 0.00065914437}
+      rotation: {x: 0.018631358, y: -0.00053971994, z: -0.028955813, w: 0.9994069}
+      scale: {x: 1.0000007, y: 1, z: 1.0000005}
+    - name: mixamorig:LeftHandIndex2
+      parentName: mixamorig:LeftHandIndex1
+      position: {x: -0.000090299436, y: 0.030104505, z: 3.728823e-10}
+      rotation: {x: 0.040319603, y: -0.0000001331791, z: 0.000000013998939, w: 0.9991868}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1}
+    - name: mixamorig:LeftHandIndex3
+      parentName: mixamorig:LeftHandIndex2
+      position: {x: 0.000004011162, y: 0.028043205, z: 1.5477326e-11}
+      rotation: {x: -0.040835205, y: -0.000030158693, z: -0.0005061775, w: -0.99916583}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: mixamorig:LeftHandIndex4
+      parentName: mixamorig:LeftHandIndex3
+      position: {x: 0.00008628841, y: 0.02148053, z: 4.986987e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -0, y: 0.15692317, z: -0.0000000054556573}
+      rotation: {x: -0.0023919968, y: 0.000000027917318, z: -0.000000009380028, w: 0.99999714}
+      scale: {x: 0.9999985, y: 1.0000001, z: 0.9999999}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.06306823, z: 0.0012457895}
+      rotation: {x: -0, y: -0.000000018626444, z: 0.000000007275957, w: 1}
+      scale: {x: 0.9999992, y: 0.9999991, z: 1.000002}
+    - name: mixamorig:HeadTop_End
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.30067214, z: 0.0059391996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.0812367, y: -0.058137435, z: 0.020886628}
+      rotation: {x: 0.0003385777, y: 0.030695625, z: 0.99946797, w: -0.01102539}
+      scale: {x: 1.0000114, y: 1.0000113, z: 1}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -2.6726274e-10, y: 0.4147288, z: 1.9822366e-12}
+      rotation: {x: -0.0872502, y: 0.00061903783, z: -0.0070671337, w: 0.9961612}
+      scale: {x: 1.000004, y: 1.0000025, z: 1.000003}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: 2.573512e-10, y: 0.4545294, z: 0.0000000020192523}
+      rotation: {x: 0.5129886, y: 0.02890041, z: -0.017284587, w: 0.8577346}
+      scale: {x: 1, y: 0.99999565, z: 1.0000042}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: 1.6301821e-11, y: 0.22920428, z: -0.0000000050738116}
+      rotation: {x: 0.31237566, y: -0.006010687, z: 0.0019765699, w: 0.94993764}
+      scale: {x: 1.0000012, y: 1.0000119, z: 0.9999905}
+    - name: mixamorig:RightToe_End
+      parentName: mixamorig:RightToeBase
+      position: {x: 2.3788561e-11, y: 0.08380949, z: -7.3320995e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.0812367, y: -0.058137435, z: 0.02216962}
+      rotation: {x: -0.0003221919, y: 0.02919808, z: 0.9995128, w: 0.011027872}
+      scale: {x: 1.0000055, y: 1.0000073, z: 1.0000001}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: 2.025238e-10, y: 0.4146543, z: 0.0000000010685233}
+      rotation: {x: -0.08945853, y: -0.00063484395, z: 0.007068047, w: 0.99596536}
+      scale: {x: 1.0000043, y: 1.0000037, z: 1.0000013}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 1.5993428e-12, y: 0.4549265, z: 0.0000000026411975}
+      rotation: {x: 0.5217845, y: -0.027869502, z: 0.01705892, w: 0.8524514}
+      scale: {x: 1.000006, y: 1.0000014, z: 1.0000046}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: 0.0000000011882519, y: 0.23364416, z: -0.0000000017595877}
+      rotation: {x: 0.3057983, y: 0.0056677503, z: -0.0018203917, w: 0.95207775}
+      scale: {x: 0.9999984, y: 1.000005, z: 0.9999924}
+    - name: mixamorig:LeftToe_End
+      parentName: mixamorig:LeftToeBase
+      position: {x: 2.057977e-10, y: 0.085916825, z: -5.2701312e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

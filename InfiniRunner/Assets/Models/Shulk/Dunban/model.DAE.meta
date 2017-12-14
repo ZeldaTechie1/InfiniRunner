@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: ac2829a560a4ac0468477cae2a8bfc44
+timeCreated: 1513217375
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _01_-_TransN
+    100002: _02_-_RotN
+    100004: _03_-_HipN
+    100006: _04_-_LLegJ
+    100008: _05_-_LKneeJ
+    100010: _06_-_LFootJ
+    100012: _07_-_LToeN
+    100014: _08_-_RLegJ
+    100016: _09_-_RKneeJ
+    100018: _10_-_RFootJ
+    100020: _11_-_RToeN
+    100022: _12_-_WaistN
+    100024: _13_-_BustN
+    100026: _14_-_LShoulderN
+    100028: _15_-_LShoulderJ
+    100030: _16_-_LArmJ
+    100032: _17_-_LHandN
+    100034: _18_-_LHaveN
+    100036: _19_-_NeckN
+    100038: _20_-_HeadN
+    100040: _21_-_RShoulderN
+    100042: _22_-_RShoulderJ
+    100044: _23_-_RArmJ
+    100046: _24_-_RHandN
+    100048: _25_-_SWG_CMant01__swing
+    100050: _26_-_SWG_CMant02__swing
+    100052: _27_-_SWG_Hair01__swing
+    100054: _28_-_SWG_Hair02__swing
+    100056: Dunban_faceN_VIS_O_OBJ_
+    100058: Dunban_faceN_VIS_O_OBJ_ 1
+    100060: Dunban_Talk_VIS_O_OBJ_
+    100062: Dunban_Talk_VIS_O_OBJ_ 1
+    100064: EnvironmentAmbientLight
+    100066: Gamemodel_
+    100068: Gamemodel_ 1
+    100070: Gamemodel_ 10
+    100072: Gamemodel_ 2
+    100074: Gamemodel_ 3
+    100076: Gamemodel_ 4
+    100078: Gamemodel_ 5
+    100080: Gamemodel_ 6
+    100082: Gamemodel_ 7
+    100084: Gamemodel_ 8
+    100086: Gamemodel_ 9
+    100088: //RootNode
+    400000: _01_-_TransN
+    400002: _02_-_RotN
+    400004: _03_-_HipN
+    400006: _04_-_LLegJ
+    400008: _05_-_LKneeJ
+    400010: _06_-_LFootJ
+    400012: _07_-_LToeN
+    400014: _08_-_RLegJ
+    400016: _09_-_RKneeJ
+    400018: _10_-_RFootJ
+    400020: _11_-_RToeN
+    400022: _12_-_WaistN
+    400024: _13_-_BustN
+    400026: _14_-_LShoulderN
+    400028: _15_-_LShoulderJ
+    400030: _16_-_LArmJ
+    400032: _17_-_LHandN
+    400034: _18_-_LHaveN
+    400036: _19_-_NeckN
+    400038: _20_-_HeadN
+    400040: _21_-_RShoulderN
+    400042: _22_-_RShoulderJ
+    400044: _23_-_RArmJ
+    400046: _24_-_RHandN
+    400048: _25_-_SWG_CMant01__swing
+    400050: _26_-_SWG_CMant02__swing
+    400052: _27_-_SWG_Hair01__swing
+    400054: _28_-_SWG_Hair02__swing
+    400056: Dunban_faceN_VIS_O_OBJ_
+    400058: Dunban_faceN_VIS_O_OBJ_ 1
+    400060: Dunban_Talk_VIS_O_OBJ_
+    400062: Dunban_Talk_VIS_O_OBJ_ 1
+    400064: EnvironmentAmbientLight
+    400066: Gamemodel_
+    400068: Gamemodel_ 1
+    400070: Gamemodel_ 10
+    400072: Gamemodel_ 2
+    400074: Gamemodel_ 3
+    400076: Gamemodel_ 4
+    400078: Gamemodel_ 5
+    400080: Gamemodel_ 6
+    400082: Gamemodel_ 7
+    400084: Gamemodel_ 8
+    400086: Gamemodel_ 9
+    400088: //RootNode
+    4300000: Dunban_faceN_VIS_O_OBJ_
+    4300002: Dunban_faceN_VIS_O_OBJ_
+    4300004: Dunban_Talk_VIS_O_OBJ_
+    4300006: Dunban_Talk_VIS_O_OBJ_
+    4300008: Gamemodel_
+    4300010: Gamemodel_
+    4300012: Gamemodel_
+    4300014: Gamemodel_
+    4300016: Gamemodel_
+    4300018: Gamemodel_
+    4300020: Gamemodel_
+    4300022: Gamemodel_
+    4300024: Gamemodel_
+    4300026: Gamemodel_
+    4300028: Gamemodel_
+    9500000: //RootNode
+    13700000: Dunban_faceN_VIS_O_OBJ_
+    13700002: Dunban_faceN_VIS_O_OBJ_ 1
+    13700004: Dunban_Talk_VIS_O_OBJ_
+    13700006: Dunban_Talk_VIS_O_OBJ_ 1
+    13700008: Gamemodel_
+    13700010: Gamemodel_ 1
+    13700012: Gamemodel_ 10
+    13700014: Gamemodel_ 2
+    13700016: Gamemodel_ 3
+    13700018: Gamemodel_ 4
+    13700020: Gamemodel_ 5
+    13700022: Gamemodel_ 6
+    13700024: Gamemodel_ 7
+    13700026: Gamemodel_ 8
+    13700028: Gamemodel_ 9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
